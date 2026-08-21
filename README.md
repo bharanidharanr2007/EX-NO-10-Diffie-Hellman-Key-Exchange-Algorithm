@@ -1,5 +1,5 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
-## NAME : BBHARANIDHARAN R
+## NAME : BHARANIDHARAN R
 ## REG NO :212224110012
 
 ## AIM:
